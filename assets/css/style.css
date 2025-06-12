@@ -1776,7 +1776,7 @@ section {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: #106eea;
+  /*background: #106eea;*/
   border-radius: 4px;
   width: 36px;
   height: 36px;
@@ -1790,7 +1790,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #3b8af2;
+  background: #0044ff;
 }
 
 
