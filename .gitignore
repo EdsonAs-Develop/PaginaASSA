@@ -1,0 +1,44 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE and build artifacts
+node_modules/
+dist/
+build/
+.DS_Store
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+tmp/
+temp/
+
+# Generated files
+sitemap.xml
+sitemap.json
+
+# Sensitive files
+/forms/*.php
+/config/
+/private/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Backup files
+*.backup
+*.bak
+*.orig
